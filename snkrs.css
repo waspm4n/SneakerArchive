@@ -31,6 +31,8 @@ main {
   margin-top: 20px;
   display: flex;
   justify-content: space-evenly;
+  background-image: url(snkrimg.jpg);
+  
 }
 main li {
   list-style: none;
@@ -39,7 +41,7 @@ main li {
 }
 main a {
   text-decoration: none;
-  color: black;
+  color: white;
   transition: all 0.5s ease 0.2s;
   font-size: 3rem;
 }
